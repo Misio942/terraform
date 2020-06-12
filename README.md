@@ -1,4 +1,4 @@
-# Repositorio de seguimiento - Terraform
+# 1. Repositorio de seguimiento - Terraform
 
 * Introducción a Terraform
 * Instalación
@@ -12,3 +12,5 @@
 * Diseño del proyecto
 * Módulos
 * Plans
+
+[Guía]: https://www.notion.so/Terraform-ffb33a1c42ea4fd1bc7c1c3f0bfdc21f
