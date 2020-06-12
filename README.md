@@ -1,4 +1,4 @@
-# 1. Repositorio de seguimiento - Terraform
+# Repositorio de seguimiento - Terraform
 
 * Introducción a Terraform
 * Instalación
